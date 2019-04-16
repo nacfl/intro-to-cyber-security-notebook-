@@ -37,3 +37,10 @@ sample the network to see what kind of traffic is going on
 src port 4444
 
 he found the flag - format flag
+
+uses wireshark to look at packets between the 2 machines 
+
+probe, penetrate, profit
+
+recon, gain access, get data, 
+
